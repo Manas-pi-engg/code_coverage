@@ -2,7 +2,7 @@
     <servers>
         <server>
             <id>sonarcloud.io</id>
-            <username>Manas-pi-engg</username>
+            <username>Manas-pi-engg_code_coverage</username>
             <password>SONAR_TOKEN</password> 
         </server>
     </servers>
