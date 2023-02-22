@@ -7,9 +7,7 @@ public class Calculator {
     int difference = subtract(num1, num2);
     int product = multiply(num1, num2);
     
-    System.out.println("Sum: " + sum);
-    System.out.println("Difference: " + difference);
-    System.out.println("Product: " + product);
+    System.out.println(sum+difference +product);
   }
   
   public static int add(int a, int b) {
