@@ -2,6 +2,7 @@ public class Calculator {
   public static void main(String[] args) {
     int num1 = 10;
     int num2 = 5;
+    int z=7;
     int sum = add(num1, num2);
     int difference = subtract(num1, num2);
     int product = multiply(num1, num2);
