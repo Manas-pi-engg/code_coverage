@@ -22,4 +22,9 @@ public class CalculatorTest {
         int result = Calculator.multiply(10, 5);
         assertEquals(50, result);
     }
+   @Test
+    public void testDiv() {
+        int result = Calculator.div(10, 5);
+        assertEquals(50, result);
+    }
 }
