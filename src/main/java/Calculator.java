@@ -21,13 +21,9 @@ public class Calculator {
     return a * b;
   }
    public static int div(int a, int b) {
-    return a * b;
-
+       return a * b;
+   }
      public static int add1(int a, int b) {
        return a + b;
      }
-
-   }
-  
-
 }
