@@ -26,4 +26,8 @@ public class Calculator {
      public static int add1(int a, int b) {
        return a + b;
      }
+   public static int add2(int a, int b) {
+    return a + b;
+  }
+  
 }
