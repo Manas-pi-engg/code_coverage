@@ -12,7 +12,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testAdd1() {
+    public void testAdd2() {
         int result = Calculator.add1(10, 5);
         assertEquals(15, result);
     }
