@@ -16,6 +16,11 @@ public class CalculatorTest {
         int result = Calculator.add1(10, 5);
         assertEquals(15, result);
     }
+   @Test
+    public void testAdd1() {
+        int result = Calculator.add2(10, 5);
+        assertEquals(15, result);
+    }
 
     @Test
     public void testSubtract() {
